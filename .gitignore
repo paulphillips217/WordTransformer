@@ -1,0 +1,12 @@
+
+.vs/
+
+Debug/
+
+*.vcxproj
+
+WordTransformer.vcxproj.filters
+
+*.user
+
+*.sln
